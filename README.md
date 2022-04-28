@@ -3,15 +3,15 @@ CMS repo
 
 
 ## Branches: 
-    ###DEV for development purposes
+### DEV for development purposes
       |---------  Uloha 1
       |---------  Uloha 2
       |---------  ...
-    ###Main 
+### Main 
       |---------  Uloha 1
       |---------  ...
       |---------  Docker
-    ###API 
+### API 
       |---------  Uloha 1
       |---------  .....
     
